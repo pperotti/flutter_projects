@@ -5,10 +5,10 @@ This repo contains different small projects I created using Flutter to show know
 ## Installation
 Each project contains its own README.md file where proper installations projects are explained. 
 
-## Usage
+## Usage
 Each project contains its own README.md file where proper installations projects are explained. 
 
-## Contribution
+## Contribution
 All the code in this repo is for personal use to demonstrate knowledge on a platform and not to create 
 
 ## Licenses
